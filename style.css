@@ -23,7 +23,7 @@ nav {
     display: flex;
     justify-content: space-between;
     place-items: center;
-    padding: 15px;
+    padding: 40px;
 }
 
 .navbar-icon {
