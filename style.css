@@ -30,7 +30,7 @@ nav {
     font-weight: 900;
 }
 
-/* Début des script liés au lien du menu */
+/* Début des scripts liés au lien du menu */
 
 .navbar-links {
     display: flex;
@@ -56,9 +56,9 @@ nav {
     font-size: small;
 }
 
-/* Fin des script liés au lien du menu */
+/* Fin des scripts liés au lien du menu */
 
-/* Début des script liés au bouton */
+/* Début des scripts liés au bouton */
 
 .blue-button {
     background-color: rgb(65, 105, 255);
@@ -80,8 +80,9 @@ nav {
     border-radius: 7px;
 }
 
-/* Fin des script liés au bouton */
+/* Fin des scripts liés au bouton */
 
+/* Début des scripts liés à la section top container */
 
 .home-top-container {
     background: #edf2fb;
@@ -127,3 +128,6 @@ nav {
 .home-top-image img {
     max-width: 600px;
 }
+
+/* Fin des scripts liés à la section top container */
+
