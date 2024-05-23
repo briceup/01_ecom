@@ -30,6 +30,8 @@ nav {
     font-weight: 900;
 }
 
+/* Début des script liés au lien du menu */
+
 .navbar-links {
     display: flex;
     flex-direction: row;
@@ -54,6 +56,10 @@ nav {
     font-size: small;
 }
 
+/* Fin des script liés au lien du menu */
+
+/* Début des script liés au bouton */
+
 .blue-button {
     background-color: rgb(65, 105, 255);
     color: white;
@@ -73,3 +79,5 @@ nav {
     padding: 8px 20px;
     border-radius: 7px;
 }
+
+/* Fin des script liés au bouton */
