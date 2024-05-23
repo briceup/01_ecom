@@ -1,1 +1,1 @@
-# 01_ecom
+# PROJECT 1 - ECOMMERCE WEBSITE
