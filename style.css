@@ -9,3 +9,10 @@
 body {
     background-color: white;
 }
+
+nav {
+    background-color: transparent;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
