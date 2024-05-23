@@ -25,3 +25,17 @@ nav {
     place-items: center;
     padding: 15px;
 }
+
+.navbar-icon {
+    font-weight: 900;
+}
+
+.navbar-links {
+    display: flex;
+    flex-direction: row;
+    place-items: center;
+}
+
+.navbar-links ul {
+    list-style: none;
+}
