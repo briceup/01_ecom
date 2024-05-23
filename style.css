@@ -98,6 +98,7 @@ nav {
     justify-content: space-between;
     flex-direction: row;
     width: 85%;
+    place-items: center;
 }
 
 .home-top-text {
@@ -106,6 +107,23 @@ nav {
 
 .home-top-text h1 {
     color: rgb(64, 64, 64);
-    font-size: 25px;
+    font-size: 40px;
     font-weight: 800;
+}
+
+.home-top-text p {
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 15px;
+    color: rgb(135, 135, 135);
+}
+
+.home-top-text button {
+    margin-top: 30px;
+    padding: 17px 45px;
+    border-radius: 30px;
+}
+
+.home-top-image img {
+    max-width: 600px;
 }
