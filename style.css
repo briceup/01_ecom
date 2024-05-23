@@ -16,3 +16,12 @@ nav {
     width: 100%;
     z-index: 1000;
 }
+
+.navbar {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    place-items: center;
+    padding: 15px;
+}
