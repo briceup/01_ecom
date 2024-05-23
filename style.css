@@ -81,3 +81,31 @@ nav {
 }
 
 /* Fin des script liés au bouton */
+
+
+.home-top-container {
+    background: #edf2fb;
+    height: 80vh;
+    padding: 20px;
+    padding-top: 150px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.home-top-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 85%;
+}
+
+.home-top-text {
+    width: 50%;
+}
+
+.home-top-text h1 {
+    color: rgb(64, 64, 64);
+    font-size: 25px;
+    font-weight: 800;
+}
