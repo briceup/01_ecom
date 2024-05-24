@@ -131,6 +131,7 @@ nav {
 
 /* Fin des scripts liés à la section top container */
 
+/* Début de la section des collections */
 
 .collection-container {
     background-color: #c7d5f1;
@@ -182,3 +183,5 @@ nav {
     margin-top: 25px;
     color: rgb(64, 64, 64);
 }
+
+/* Fin de la section des collections */
