@@ -131,3 +131,29 @@ nav {
 
 /* Fin des scripts liés à la section top container */
 
+
+.collection-container {
+    background-color: #c7d5f1;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    padding: 20px;
+}
+
+.collection-container h1 {
+    color: rgb(64, 64, 64);
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.collection-items-wrapper {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    padding: 50px;
+}
+
+.collection-item {
+    
+}
