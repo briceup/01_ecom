@@ -155,5 +155,25 @@ nav {
 }
 
 .collection-item {
-    
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+
+.collection-icon {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.3);
+    color: rgb(64, 64, 64);
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    transition: 0.4s ease-in-out;
+}
+
+.collection-icon:hover {
+    background-color: #3361bd;
+    color: white;
 }
