@@ -177,3 +177,8 @@ nav {
     background-color: #3361bd;
     color: white;
 }
+
+.collection-name {
+    margin-top: 25px;
+    color: rgb(64, 64, 64);
+}
